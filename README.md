@@ -1,4 +1,10 @@
-install the shell tool
-install requirements.txt sed 's/#.*//' requirements.txt | xargs sudo apt-get install -y
-sudo chmod +rwx ComProm.sh
-run the tool ./ComProm.sh
+DESCRIPTION:
+ComPromCTF is a tool used for sorting CTF challenges and categories within a user's system. 
+
+
+HOW TO RUN THE TOOL: 
+1. install the shell tool
+2. install requirements.txt sed 's/#.*//' requirements.txt | xargs sudo apt-get install -y
+3. sudo chmod +rwx ComProm.sh
+4. run the tool ./ComProm.sh
+ 
