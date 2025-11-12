@@ -10,6 +10,6 @@ HOW TO RUN THE TOOL:
 3.run 
 ```sudo chmod +rwx ComProm.sh```
 
-4. run the tool 
+4. run the tool
 ```./ComProm.sh```
  
