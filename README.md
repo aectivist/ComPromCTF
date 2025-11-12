@@ -10,4 +10,7 @@ HOW TO RUN THE TOOL:
 ```sudo chmod +rwx ComProm.sh```
 4. run the tool
 ```./ComProm.sh```
- 
+
+ MUST HAVE: 
+ (CTF folder named "CTF" within desktop directory)
+ wl-clipboard
